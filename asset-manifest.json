@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/popo2024/static/css/main.0231c897.css",
-    "main.js": "/popo2024/static/js/main.1c340797.js",
+    "main.css": "/popo2024/static/css/main.ecd3df24.css",
+    "main.js": "/popo2024/static/js/main.1d45904e.js",
     "static/js/787.d4aba7ab.chunk.js": "/popo2024/static/js/787.d4aba7ab.chunk.js",
+    "static/media/background.png": "/popo2024/static/media/background.a0111b4f8a6bd8126b1e.png",
+    "static/media/ポポさんぽロゴ.png": "/popo2024/static/media/ポポさんぽロゴ.0da5d223d0c964a2155c.png",
+    "static/media/イラストピヨ.png": "/popo2024/static/media/イラストピヨ.a811b378a8296819bebd.png",
+    "static/media/写真ピヨ-1.png": "/popo2024/static/media/写真ピヨ-1.68aa9fd792f11beb2ec9.png",
+    "static/media/お手紙ピヨ.png": "/popo2024/static/media/お手紙ピヨ.30b9095a43a04f044fe5.png",
     "static/media/loading.png": "/popo2024/static/media/loading.4db8d02f9540eb4dad37.png",
+    "static/media/ポポピヨ.png": "/popo2024/static/media/ポポピヨ.4729cca0775e2dddd952.png",
     "static/media/Campus.jpg": "/popo2024/static/media/Campus.17b6358b684d7a3508b9.jpg",
     "index.html": "/popo2024/index.html",
-    "main.0231c897.css.map": "/popo2024/static/css/main.0231c897.css.map",
-    "main.1c340797.js.map": "/popo2024/static/js/main.1c340797.js.map",
+    "main.ecd3df24.css.map": "/popo2024/static/css/main.ecd3df24.css.map",
+    "main.1d45904e.js.map": "/popo2024/static/js/main.1d45904e.js.map",
     "787.d4aba7ab.chunk.js.map": "/popo2024/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0231c897.css",
-    "static/js/main.1c340797.js"
+    "static/css/main.ecd3df24.css",
+    "static/js/main.1d45904e.js"
   ]
 }
